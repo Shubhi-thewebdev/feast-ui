@@ -29,7 +29,7 @@ const oidcConfig = {
   authority: 'https://auth.pingone.asia/4759a5a7-74de-492c-8a51-92efbcd5149a',
   client_id: '512719ef-db11-425d-9dd8-9ed72cb7da8e',
   redirect_uri:'http://localhost:3000/',
-  client_secret: 'ykurNyOJen5MUgvK-6QH~IRjVjLQ7F2RN4LuM9ZW50XBxf7rC19k6Lv_bLAq1PGv',
+  client_secret: '',
   response_type: 'code',
   post_logout_redirect_uri:'http://localhost:3000/',
   host:'localhost:3000',
